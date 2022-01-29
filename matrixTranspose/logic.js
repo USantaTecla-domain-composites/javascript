@@ -17,6 +17,7 @@ let bidimensional = [
     return transposed;
   }
 
+  
   console.log('Array original: ' + bidimensional);
   console.log('Array transpuesta: ' + transpose(bidimensional));
   
